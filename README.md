@@ -29,7 +29,6 @@ pip install librosa numpy soundfile tkinter
 
     Run the script:
 
-bash
 
 python to441.py
 
