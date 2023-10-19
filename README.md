@@ -55,6 +55,5 @@ Feel free to fork this repository and submit PRs for any improvements or feature
 📜 License: 
 
 This project is open-source and available under the MIT License.
-🤖 Author: 
 
-cafeTechne
+🤖 Author: cafeTechne
