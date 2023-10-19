@@ -52,8 +52,10 @@ The script provides real-time feedback on the terminal, including:
 🙏 Contributing:
 
 Feel free to fork this repository and submit PRs for any improvements or features you think would be beneficial. Your contributions are always welcome!
+
 📜 License: 
 
 This project is open-source and available under the MIT License.
+
 
 🤖 Author: cafeTechne
