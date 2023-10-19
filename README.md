@@ -20,7 +20,10 @@ Ensure you have the following Python libraries installed:
 You can install the required packages using `pip`:
 
 ```bash
+
 pip install librosa numpy soundfile tkinter
+
+```
 
 🚀 How to Use:
 
