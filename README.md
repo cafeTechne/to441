@@ -32,9 +32,9 @@ pip install librosa numpy soundfile tkinter
 
 
 
-    A directory prompt will pop up, asking you to select a directory containing .wav files you'd like to process.
-    The script will then process each .wav file, resampling and converting it as needed.
-    Processed files will be saved with the "_16bit_44100Hz.wav" suffix in their original locations.
+A directory prompt will pop up, asking you to select a directory containing .wav files you'd like to process.
+The script will then process each .wav file, resampling and converting it as needed.
+Processed files will be saved with the "_16bit_44100Hz.wav" suffix in their original locations.
 
 📣 Output:
 
