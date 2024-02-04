@@ -27,10 +27,10 @@ pip install librosa numpy soundfile tkinter
 
 🚀 How to Use:
 
-    Run the script:
+    python to441.py
 
 
-python to441.py
+
 
     A directory prompt will pop up, asking you to select a directory containing .wav files you'd like to process.
     The script will then process each .wav file, resampling and converting it as needed.
